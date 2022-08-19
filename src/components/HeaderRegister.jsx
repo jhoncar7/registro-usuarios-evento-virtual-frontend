@@ -3,7 +3,7 @@
 export const HeaderRegister = () => {
     return (
         <header style={{ height: '350px', display: 'flex', justifyContent: 'center', alignItems: 'center', }}>
-            <img src="../../public/assets/Group_4.svg" alt="header" style={styles.img} />
+            <img src="../assets/Group_4.svg" alt="header" style={styles.img} />
             <div style={{ height: '156px', width: '960px', position: 'absolute' }}>
                 <div style={styles.title}>El reto de humanizar el CX financiero en 2021</div>
                 <div style={styles.subTitle}>La experiencia de un Unicornio de Latam</div>
